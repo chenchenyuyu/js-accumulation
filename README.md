@@ -1,2 +1,3 @@
 # js-accumulation
-学习积累
+
+[1. JavaScript实现浅拷贝和深拷贝](https://github.com/chenchenyuyu/js-accumulation/issues/1)
